@@ -6,6 +6,8 @@
 
 ## Description
 
+This is a JavaScript template with npm, bower, and gulp dependencies installed.
+
 ## Setup/Installation Requirements
 
 * Clone the repository
